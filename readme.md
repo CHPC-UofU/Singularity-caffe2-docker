@@ -24,3 +24,4 @@ A few other useful links:
 * [CUDNN download](https://developer.nvidia.com/rdp/cudnn-download)
 * [Caffe2 github](https://github.com/caffe2/caffe2/)
 * [Caffe2 Docker](https://hub.docker.com/r/caffe2ai/caffe2/)
+* [Caffe2 Dockerfiles](https://github.com/caffe2/caffe2/tree/master/docker) (to use when building updated version from the source)
