@@ -20,7 +20,7 @@ python /usr/local/caffe2/python/convnet_benchmarks.py --batch_size 1 --model Ale
 (note that the Caffe2 is installed in `/usr/local/caffe2`).
 
 A few other useful links:
-  [CUDA/CUDNN install script](https://gist.github.com/mjdietzx/0ff77af5ae60622ce6ed8c4d9b419f45)
-  [CUDNN download](https://developer.nvidia.com/rdp/cudnn-download)
-  [Caffe2 github](https://github.com/caffe2/caffe2/)
-  [Caffe2 Docker](https://hub.docker.com/r/caffe2ai/caffe2/)
+* [CUDA/CUDNN install script](https://gist.github.com/mjdietzx/0ff77af5ae60622ce6ed8c4d9b419f45)
+* [CUDNN download](https://developer.nvidia.com/rdp/cudnn-download)
+* [Caffe2 github](https://github.com/caffe2/caffe2/)
+* [Caffe2 Docker](https://hub.docker.com/r/caffe2ai/caffe2/)
